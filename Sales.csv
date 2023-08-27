@@ -1,0 +1,11 @@
+Customer_Gender,M,,,,,,,,,,,
+,,,,,,,,,,,,
+Row Labels,Sum of Revenue,Sum of Cost,Sum of Profit,,Sum of Revenue,Column Labels,,,,,,
+United States,"Ksh14,588,293","Ksh8,764,760","Ksh5,823,533",,Row Labels,2011,2012,2013,2014,2015,2016,Grand Total
+Australia,"Ksh10,441,513","Ksh7,108,374","Ksh3,333,139",,Australia,"Ksh2,529,914","Ksh2,557,511","Ksh4,107,470","Ksh2,802,842","Ksh5,712,339","Ksh3,591,983","Ksh21,302,059"
+United Kingdom,"Ksh5,359,889","Ksh3,155,443","Ksh2,204,446",,Canada,"Ksh789,798","Ksh835,527","Ksh1,443,537","Ksh1,471,522","Ksh1,731,954","Ksh1,663,400","Ksh7,935,738"
+France,"Ksh4,418,191","Ksh2,927,449","Ksh1,490,742",,France,"Ksh946,624","Ksh962,153","Ksh1,431,870","Ksh1,411,100","Ksh1,877,928","Ksh1,803,197","Ksh8,432,872"
+Canada,"Ksh4,271,757","Ksh2,228,143","Ksh2,043,614",,Germany,"Ksh833,603","Ksh835,188","Ksh1,452,704","Ksh1,702,508","Ksh1,931,091","Ksh2,223,502","Ksh8,978,596"
+Germany,"Ksh4,255,766","Ksh2,664,008","Ksh1,591,758",,United Kingdom,"Ksh823,481","Ksh834,885","Ksh1,868,796","Ksh2,014,044","Ksh2,484,181","Ksh2,620,809","Ksh10,646,196"
+Grand Total,"Ksh43,335,409","Ksh26,848,177","Ksh16,487,232",,United States,"Ksh3,041,468","Ksh3,150,719","Ksh4,935,660","Ksh4,750,708","Ksh6,286,498","Ksh5,810,494","Ksh27,975,547"
+,,,,,Grand Total,"Ksh8,964,888","Ksh9,175,983","Ksh15,240,037","Ksh14,152,724","Ksh20,023,991","Ksh17,713,385","Ksh85,271,008"
